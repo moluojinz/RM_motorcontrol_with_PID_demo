@@ -1,0 +1,5 @@
+"D:\clion\CLion 2023.1.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S D:\A_moluo_document\ROBOMASTER\demo_Dji\my_demo -B D:\A_moluo_document\ROBOMASTER\demo_Dji\my_demo\cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/A_moluo_document/ROBOMASTER/demo_Dji/my_demo/cmake-build-debug

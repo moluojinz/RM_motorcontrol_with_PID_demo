@@ -1,0 +1,3 @@
+D:/A_moluo_document/ROBOMASTER/demo_Dji/my_demo/cmake-build-debug/CMakeFiles/my_demo.elf.dir
+D:/A_moluo_document/ROBOMASTER/demo_Dji/my_demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/A_moluo_document/ROBOMASTER/demo_Dji/my_demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
